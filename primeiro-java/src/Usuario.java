@@ -12,10 +12,11 @@ public class Usuario{
         smartTv.ligar();
         System.out.println("Novo status?" + smartTv.ligada);
 
-        smartTv.aumentarVolume();
-        System.out.println("Novo volume?" + smartTv.volume);
-
-        smartTv.diminuirVolume();
+       smartTv.aumentarVolume();
+       smartTv.aumentarVolume();
+       smartTv.aumentarVolume();
+       smartTv.aumentarVolume();
+       System.out.println(smartTv.volume);
         
     }
 

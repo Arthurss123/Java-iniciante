@@ -13,11 +13,14 @@ public class SmartTv {
     }
 
     public void aumentarVolume(){
-       volume++;
+        volume++;
     }
 
-    public void diminuirVolume(){
-        volume--;
+    public void aumentarCanal(){
+
     }
 
+    public void diminuirCanal(){
+        
+    }
 }
