@@ -15,7 +15,7 @@ public class Usuario{
        smartTv.aumentarVolume();
        smartTv.aumentarVolume();
        smartTv.aumentarVolume();
-       smartTv.aumentarVolume();
+
        System.out.println(smartTv.volume);
         
     }
